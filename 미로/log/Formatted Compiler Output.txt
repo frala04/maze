@@ -1,0 +1,1482 @@
+2022-04-09 오후 1:17:21: Creating log...
+
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void cursoroff()':
+3	4	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'CONSOLE_CURSOR_INFO' was not declared in this scope
+4	4	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'cursorInfo' was not declared in this scope
+5	24	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'FALSE' was not declared in this scope
+6	38	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'STD_OUTPUT_HANDLE' was not declared in this scope
+6	55	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'GetStdHandle' was not declared in this scope
+6	68	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'SetConsoleCursorInfo' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void color(int)':
+10	41	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'STD_OUTPUT_HANDLE' was not declared in this scope
+10	58	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'GetStdHandle' was not declared in this scope
+10	61	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'SetConsoleTextAttribute' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void gotoxy(int, int)':
+14	4	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'COORD' was not declared in this scope
+15	4	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'pos' was not declared in this scope
+17	42	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'STD_OUTPUT_HANDLE' was not declared in this scope
+17	59	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'GetStdHandle' was not declared in this scope
+17	65	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'SetConsoleCursorPosition' was not declared in this scope
+31		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/winset.o' failed
+
+2022-04-09 오후 1:18:25: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'void file_read()':
+2	2	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'FILE' was not declared in this scope
+2	8	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fread' was not declared in this scope
+2	35	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fopen' was not declared in this scope
+3	12	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'NULL' was not declared in this scope
+4	8	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fmake' was not declared in this scope
+5	21	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fprintf' was not declared in this scope
+6	15	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fclose' was not declared in this scope
+7	3	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+10	9	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R2' was not declared in this scope
+10	20	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fgets' was not declared in this scope
+11	3	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+11	13	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'atoi' was not declared in this scope
+13	14	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fclose' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'void file_write()':
+17	10	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R2' was not declared in this scope
+17	20	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+17	22	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'sprintf' was not declared in this scope
+18	2	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'FILE' was not declared in this scope
+18	7	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fmake' was not declared in this scope
+18	34	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fopen' was not declared in this scope
+19	19	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fprintf' was not declared in this scope
+20	14	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fclose' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/file.o' failed
+
+2022-04-09 오후 1:18:53: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'void file_read()':
+3	2	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'FILE' was not declared in this scope
+3	8	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fread' was not declared in this scope
+3	35	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fopen' was not declared in this scope
+5	8	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fmake' was not declared in this scope
+6	21	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fprintf' was not declared in this scope
+7	15	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fclose' was not declared in this scope
+8	3	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+11	9	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R2' was not declared in this scope
+11	20	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fgets' was not declared in this scope
+12	3	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+14	14	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fclose' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'void file_write()':
+18	10	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R2' was not declared in this scope
+18	20	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+18	22	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'sprintf' was not declared in this scope
+19	2	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'FILE' was not declared in this scope
+19	7	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fmake' was not declared in this scope
+19	34	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fopen' was not declared in this scope
+20	19	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fprintf' was not declared in this scope
+21	14	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'fclose' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/file.o' failed
+
+2022-04-09 오후 1:18:59: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'void file_read()':
+8	3	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+11	9	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R2' was not declared in this scope
+12	3	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+12	13	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'atoi' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'void file_write()':
+18	10	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R2' was not declared in this scope
+18	20	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'R1' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/file.o' failed
+
+2022-04-09 오후 1:19:56: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+117	57	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'R1' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:20:43: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+117	57	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'R1' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:20:54: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+117	68	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'fille_read' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:21:02: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+117	68	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'fille_read' was not declared in this scope
+117	70	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected primary-expression before ')' token
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:21:14: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+117	68	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid use of void expression
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:21:32: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+117	68	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid use of void expression
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:21:52: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'int file_read()':
+16	13	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'atoi' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/file.o' failed
+
+2022-04-09 오후 1:22:09: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'int file_read()':
+17	13	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'atoi' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/file.o' failed
+
+2022-04-09 오후 1:22:19: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\file.cpp	In function 'int file_read()':
+17	13	C:\Users\wbmc7\Desktop\미로\src\file.cpp	[Error] 'atoi' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/file.o' failed
+
+2022-04-09 오후 1:48:22: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void start_select()':
+60	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+80	44	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'generateMap' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:48:54: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+75	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'j' was not declared in this scope
+80	44	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'generateMap' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 1:50:04: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+81	44	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'generateMap' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 10:09:09: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_select()':
+159	23	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected ')' before 'x'
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 10:10:12: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-09 오후 10:43:25: Appending to log...
+
+46	1	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected initializer before 'void'
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+177	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'start_ment' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 10:43:33: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x0): multiple definition of `cursoroff()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x46): multiple definition of `color(int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x46): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x81): multiple definition of `gotoxy(int, int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x81): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0xc3): multiple definition of `winset()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0xc3): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-09 오후 10:44:01: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x0): multiple definition of `cursoroff()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x46): multiple definition of `color(int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x46): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x81): multiple definition of `gotoxy(int, int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x81): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0xc3): multiple definition of `winset()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0xc3): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-09 오후 10:44:58: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x0): multiple definition of `cursoroff()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x46): multiple definition of `color(int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x46): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x81): multiple definition of `gotoxy(int, int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x81): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0xc3): multiple definition of `winset()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0xc3): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-09 오후 10:45:12: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x0): multiple definition of `cursoroff()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x46): multiple definition of `color(int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x46): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0x81): multiple definition of `gotoxy(int, int)'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0x81): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.text+0xc3): multiple definition of `winset()'
+		C:\Users\wbmc7\Desktop\미로\obj\winset.o	winset.cpp:(.text+0xc3): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-09 오후 10:56:20: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void start_select()':
+66	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_select()':
+166	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 10:56:29: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_select()':
+156	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 10:56:40: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_select()':
+157	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected initializer before 'x'
+159	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+168	5	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 11:06:10: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'COORD getRandomStartingPoint()':
+39	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected primary-expression before ')' token
+39	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'turern' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int inRange(int, int)':
+42	28	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'turern' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 11:06:25: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'COORD getRandomStartingPoint()':
+39	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected primary-expression before ')' token
+39	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'turern' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int inRange(int, int)':
+42	28	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'turern' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 11:06:41: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'COORD getRandomStartingPoint()':
+39	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected primary-expression before ')' token
+39	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'turn' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int inRange(int, int)':
+42	28	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'turern' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-09 오후 11:20:57: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_select()':
+160	5	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 3:37:15: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int updownselect(int, int, int, int)':
+9	13	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'gotoxy' was not declared in this scope
+10	3	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'o' was not declared in this scope
+10	11	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'getch' was not declared in this scope
+11	13	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'printf' was not declared in this scope
+37		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-10 오후 3:37:43: Appending to log...
+
+1	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] invalid preprocessing directive #inlcude
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int updownselect(int, int, int, int)':
+10	13	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'gotoxy' was not declared in this scope
+11	3	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'o' was not declared in this scope
+11	11	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'getch' was not declared in this scope
+12	13	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'printf' was not declared in this scope
+37		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-10 오후 3:37:53: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int updownselect(int, int, int, int)':
+11	3	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'o' was not declared in this scope
+11	11	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'getch' was not declared in this scope
+12	13	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'printf' was not declared in this scope
+37		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-10 오후 3:38:21: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int updownselect(int, int, int, int)':
+12	3	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'o' was not declared in this scope
+12	11	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'getch' was not declared in this scope
+13	13	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'printf' was not declared in this scope
+37		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-10 오후 3:38:30: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int updownselect(int, int, int, int)':
+12	3	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'o' was not declared in this scope
+12	11	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'getch' was not declared in this scope
+37		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-10 오후 3:38:40: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int updownselect(int, int, int, int)':
+13	3	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'o' was not declared in this scope
+37		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-10 오후 3:39:08: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int updownselect(int, int, int, int)':
+48	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'o' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+128	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'o' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 3:39:39: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+116	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'o' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 3:47:34: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void generateMap(int, int, int (*)[15])':
+71	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'UP' was not declared in this scope
+72	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'RIGHT' was not declared in this scope
+73	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'DOWN' was not declared in this scope
+74	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'LEFT' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 3:49:00: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+87	13	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_FLAG_WALL' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:02:16: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+164	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] cannot convert 'int (*)[73]' to 'int (*)[15]' for argument '1' to 'void print(int (*)[15])'
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:06:57: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'COORD getRandomStartingPoint()':
+30	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+31	18	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int inRange(int, int)':
+37	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+37	34	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	At global scope:
+70	38	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+70	50	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void generateMap(...)':
+75	4	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'map' was not declared in this scope
+75	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'y' was not declared in this scope
+75	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:07:03: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'COORD getRandomStartingPoint()':
+31	18	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int inRange(int, int)':
+37	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+37	34	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	At global scope:
+70	38	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+70	50	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void generateMap(...)':
+75	4	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'map' was not declared in this scope
+75	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'y' was not declared in this scope
+75	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:07:07: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int inRange(int, int)':
+37	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+37	34	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	At global scope:
+70	38	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+70	50	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void generateMap(...)':
+75	4	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'map' was not declared in this scope
+75	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'y' was not declared in this scope
+75	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:07:14: Appending to log...
+
+70	38	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_HEIGHT' was not declared in this scope
+70	50	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'MAP_WIDTH' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void generateMap(...)':
+75	4	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'map' was not declared in this scope
+75	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'y' was not declared in this scope
+75	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:20:03: Appending to log...
+
+7	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+4	13	C:\Users\wbmc7\Desktop\미로\inc\winset.h	[Error] variable or field 'winset' declared void
+4	13	C:\Users\wbmc7\Desktop\미로\inc\winset.h	[Error] 'Iint' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+153	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'winset' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 4:20:34: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void winset(int)':
+21	61	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] too many arguments to function 'int system(const char*)'
+27	0	C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\mm_malloc.h	In file included from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/mm_malloc.h
+34		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\xmmintrin.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/xmmintrin.h
+31		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\x86intrin.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/x86intrin.h
+1495		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\winnt.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/winnt.h
+146		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\minwindef.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/minwindef.h
+8		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\windef.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/windef.h
+69		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\windows.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/windows.h
+1		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	                 from src/winset.cpp
+427	15	C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\stdlib.h	[Note] declared here
+31		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/winset.o' failed
+
+2022-04-10 오후 4:22:12: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void winset(int)':
+21	59	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] too many arguments to function 'int system(const char*)'
+27	0	C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\mm_malloc.h	In file included from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/mm_malloc.h
+34		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\xmmintrin.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/xmmintrin.h
+31		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\x86intrin.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/x86intrin.h
+1495		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\winnt.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/winnt.h
+146		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\minwindef.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/minwindef.h
+8		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\windef.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/windef.h
+69		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\windows.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/windows.h
+1		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	                 from src/winset.cpp
+427	15	C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\stdlib.h	[Note] declared here
+31		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/winset.o' failed
+
+2022-04-10 오후 4:24:35: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void winset(int)':
+21	15	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'COMMAND_SIZE' was not declared in this scope
+24	10	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'command' was not declared in this scope
+24	60	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'sprintf' was not declared in this scope
+26	9	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] return-statement with a value, in function returning 'void' [-fpermissive]
+31		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/winset.o' failed
+
+2022-04-10 오후 4:24:58: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void winset(int)':
+28	9	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] return-statement with a value, in function returning 'void' [-fpermissive]
+31		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/winset.o' failed
+
+2022-04-10 오후 4:25:24: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\winset.cpp	In function 'void winset(int)':
+25	60	C:\Users\wbmc7\Desktop\미로\src\winset.cpp	[Error] 'sprintf' was not declared in this scope
+31		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/winset.o' failed
+
+2022-04-10 오후 5:54:18: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+72	14	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'startPoint' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 5:57:28: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+77	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'startpoint' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 5:57:54: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+77	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] cannot convert 'COORD {aka _COORD}' to 'int' in assignment
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 6:02:29: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int getRandomStartingPoint()':
+34	19	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] cannot convert 'COORD {aka _COORD}' to 'int' in return
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+70	42	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] conversion from 'int' to non-scalar type 'COORD {aka _COORD}' requested
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 6:02:39: Appending to log...
+
+29	1	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'coord' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+70	42	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'getRandomStartingPoint' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 6:05:37: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-10 오후 6:08:22: Appending to log...
+
+22	41	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'getRandomStartingPoint' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 6:10:03: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+68	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'm' was not declared in this scope
+68	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'n' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_ment()':
+140	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'n' was not declared in this scope
+140	18	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'm' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+173	21	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'n' was not declared in this scope
+173	25	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'm' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 6:10:12: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void end_ment()':
+139	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'n' was not declared in this scope
+139	18	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'm' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+172	21	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'n' was not declared in this scope
+172	25	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'm' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-10 오후 6:14:24: Appending to log...
+
+80	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 't' does not name a type
+81	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 't' does not name a type
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:22:26: Appending to log...
+
+19	31	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected ',' or ';' before 'o'
+20	33	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected unqualified-id before ',' token
+21	15	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] conflicting declaration 'int t [31][31]'
+18	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] previous declaration as 'time_t t'
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+77	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+78	5	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+79	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void info()':
+101	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'o' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+118	2	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'o' was not declared in this scope
+123	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+126	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+129	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+132	19	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+171	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid conversion from 'time_t {aka long long int}' to 'int (*)[31]' [-fpermissive]
+105	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] initializing argument 1 of 'void print(int (*)[31])'
+176	20	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:22:31: Appending to log...
+
+20	33	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected unqualified-id before ',' token
+21	15	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] conflicting declaration 'int t [31][31]'
+18	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] previous declaration as 'time_t t'
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+77	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+78	5	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+79	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+123	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+126	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+129	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+132	19	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+171	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid conversion from 'time_t {aka long long int}' to 'int (*)[31]' [-fpermissive]
+105	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] initializing argument 1 of 'void print(int (*)[31])'
+176	20	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:22:36: Appending to log...
+
+21	15	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] conflicting declaration 'int t [31][31]'
+18	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] previous declaration as 'time_t t'
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+77	7	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+78	5	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+79	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+123	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+126	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+129	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+132	19	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+171	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid conversion from 'time_t {aka long long int}' to 'int (*)[31]' [-fpermissive]
+105	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] initializing argument 1 of 'void print(int (*)[31])'
+176	20	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid types 'time_t {aka long long int}[int]' for array subscript
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:22:54: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+157	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid conversion from 'int (*)[31]' to 'int' [-fpermissive]
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:53:30: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+171	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] invalid conversion from 'int (*)[31]' to 'int' [-fpermissive]
+172	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] incompatible types in assignment of 'time_t {aka long long int}' to 'int [31][31]'
+173	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] ISO C++ forbids comparison between pointer and integer [-fpermissive]
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:53:47: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+172	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] incompatible types in assignment of 'time_t {aka long long int}' to 'int [31][31]'
+173	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] ISO C++ forbids comparison between pointer and integer [-fpermissive]
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:54:25: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+173	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] ISO C++ forbids comparison between pointer and integer [-fpermissive]
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 1:56:04: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+172	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] incompatible types in assignment of 'time_t {aka long long int}' to 'int [31][31]'
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 2:08:33: Appending to log...
+
+174	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] stray '\' in program
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 2:19:47: Appending to log...
+
+10	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+2	38	C:\Users\wbmc7\Desktop\미로\inc\mapgen.h	[Error] 'MAP' was not declared in this scope
+2	43	C:\Users\wbmc7\Desktop\미로\inc\mapgen.h	[Error] 'MAP' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오전 2:20:07: Appending to log...
+
+9	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'int inRange(int, int)':
+18	11	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void shuffleArray(int*, int)':
+23	17	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'rand' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	At global scope:
+29	38	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+29	43	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void generateMap(...)':
+34	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'map' was not declared in this scope
+34	8	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'y' was not declared in this scope
+34	11	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'x' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+49	10	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+50	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' was not declared in this scope
+51	27	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'NULL' was not declared in this scope
+51	31	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'time' was not declared in this scope
+51	32	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'srand' was not declared in this scope
+52	9	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'map' was not declared in this scope
+52	29	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'memset' was not declared in this scope
+53	14	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'startPoint' was not declared in this scope
+56	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+57	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오전 2:20:20: Appending to log...
+
+10	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void shuffleArray(int*, int)':
+24	17	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'rand' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+51	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' was not declared in this scope
+52	27	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'NULL' was not declared in this scope
+52	31	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'time' was not declared in this scope
+52	32	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'srand' was not declared in this scope
+53	29	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'memset' was not declared in this scope
+54	14	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'startPoint' was not declared in this scope
+57	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+58	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오전 2:20:46: Appending to log...
+
+11	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+52	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' was not declared in this scope
+53	31	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'time' was not declared in this scope
+54	29	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'memset' was not declared in this scope
+55	14	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'startPoint' was not declared in this scope
+58	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+59	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오전 2:21:00: Appending to log...
+
+13	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+54	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' was not declared in this scope
+56	29	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'memset' was not declared in this scope
+57	14	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'startPoint' was not declared in this scope
+60	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+61	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오전 2:21:16: Appending to log...
+
+14	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+55	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' was not declared in this scope
+58	14	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'startPoint' was not declared in this scope
+61	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+62	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오전 2:21:21: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+62	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+63	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오전 2:21:47: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\mapgen.o	mapgen.cpp:(.bss+0x0): multiple definition of `t'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.bss+0x40): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-11 오전 2:22:09: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\mapgen.o	mapgen.cpp:(.bss+0x0): multiple definition of `t'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.bss+0x40): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-11 오전 11:53:38: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-11 오전 11:54:03: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-11 오후 3:26:02: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:26:07: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:26:17: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:26:51: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:27:19: Appending to log...
+
+7	17	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] file.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:27:33: Appending to log...
+
+7	17	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] maze.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:27:37: Appending to log...
+
+7	17	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] maze.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:27:43: Appending to log...
+
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'void start_select()':
+87	26	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'updownselect' was not declared in this scope
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'void print(int (*)[15])':
+105	69	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'file_read' was not declared in this scope
+111	35	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'color' was not declared in this scope
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'void in_game_move()':
+119	20	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'gotoxy' was not declared in this scope
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'void end_ment()':
+142	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'gotoxy' was not declared in this scope
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'void end_select()':
+153	28	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'updownselect' was not declared in this scope
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'void time_count()':
+161	14	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'gotoxy' was not declared in this scope
+		C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	In function 'int main()':
+169	12	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'winset' was not declared in this scope
+170	12	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'cursoroff' was not declared in this scope
+193	15	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] 'file_write' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:27:53: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:30:07: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:31:02: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:31:23: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:31:34: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:31:55: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:32:05: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:32:40: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:39:04: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:40:52: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:41:52: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:42:06: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:42:55: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:45:27: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:46:34: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:50:57: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 3:56:42: Appending to log...
+
+7	19	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 4:00:20: Appending to log...
+
+7	20	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 4:02:05: Appending to log...
+
+7	20	C:\Users\wbmc7\Desktop\수민\미로\src\main.cpp	[Error] winset.h: No such file or directory
+			compilation terminated.
+28		C:\Users\wbmc7\Desktop\수민\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 11:34:10: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+125	11	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'random' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 11:34:29: Appending to log...
+
+10	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+3	38	C:\Users\wbmc7\Desktop\미로\inc\mapgen.h	[Error] 'MAP' was not declared in this scope
+3	43	C:\Users\wbmc7\Desktop\미로\inc\mapgen.h	[Error] 'MAP' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 11:34:52: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+70	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+71	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오후 11:35:11: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\mapgen.o	mapgen.cpp:(.bss+0x0): multiple definition of `t'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.bss+0x40): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-11 오후 11:36:10: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void random()':
+71	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+72	2	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 't' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오후 11:48:56: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+28	42	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'getRandomStartingPoint' was not declared in this scope
+30	13	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'WALL' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 11:49:34: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+32	42	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'getRandomStartingPoint' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-11 오후 11:49:59: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void generateMap(int, int, int (*)[15])':
+45	14	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'VISITED' was not declared in this scope
+50	39	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'WALL' was not declared in this scope
+52	37	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'EMPTY' was not declared in this scope
+53	32	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'EMPTY' was not declared in this scope
+54	22	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'EMPTY' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오후 11:51:00: Appending to log...
+
+21	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오후 11:51:05: Appending to log...
+
+21	1	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'COORD' does not name a type
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-11 오후 11:51:34: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'COORD getRandomStartingPoint()':
+13	17	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'int inRange(int, int)':
+21	11	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	At global scope:
+32	38	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+32	43	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'MAP' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	In function 'void generateMap(...)':
+37	4	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'map' was not declared in this scope
+37	8	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'y' was not declared in this scope
+37	11	C:\Users\wbmc7\Desktop\미로\src\mapgen.cpp	[Error] 'x' was not declared in this scope
+40		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/mapgen.o' failed
+
+2022-04-12 오전 12:05:17: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+107	18	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'end_ment' was not declared in this scope
+108	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-12 오전 12:06:46: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+115	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected ';' before string constant
+124	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-12 오전 12:06:51: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+124	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-12 오전 12:08:38: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+156	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] return-statement with no value, in function returning 'int' [-fpermissive]
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-13 오전 2:19:19: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void pause_ment()':
+77	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'print' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-13 오전 2:27:40: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-13 오전 2:30:52: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void pause_ment()':
+90	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected ',' or ';' before 'if'
+95	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'else' without a previous 'if'
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-13 오후 11:52:34: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+26	14	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'system' was not declared in this scope
+27	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+28	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+30	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:52:58: Appending to log...
+
+2	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] invalid preprocessing directive #inlcude
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+27	14	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'system' was not declared in this scope
+28	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+29	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+31	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:53:05: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+28	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+29	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+31	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:53:21: Appending to log...
+
+5	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] invalid preprocessing directive #inlcude
+5	9	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Warning] missing terminating " character
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+29	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+30	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+32	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:53:28: Appending to log...
+
+5	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] invalid preprocessing directive #inlcude
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+29	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+30	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+32	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:53:38: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+30	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+32	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:54:01: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+33	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:56:19: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void start_select()':
+31	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'z' was not declared in this scope
+31	7	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'i' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:57:55: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+144	8	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] void value not ignored as it ought to be
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-13 오후 11:59:04: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void end_ment()':
+38	16	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'n' was not declared in this scope
+38	18	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'm' was not declared in this scope
+40	21	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'system' was not declared in this scope
+42	46	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'c' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:59:30: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void end_ment()':
+41	21	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'system' was not declared in this scope
+43	46	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'c' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:59:42: Appending to log...
+
+3	22	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] windoe=ws.h: No such file or directory
+			compilation terminated.
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-13 오후 11:59:49: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void end_ment()':
+44	46	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'c' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오전 12:00:57: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x0): multiple definition of `m'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x4): multiple definition of `n'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x4): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오전 12:02:09: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x0): multiple definition of `m'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x4): multiple definition of `n'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x4): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오전 12:03:04: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x0): multiple definition of `m'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x4): multiple definition of `n'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x4): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오전 12:05:16: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int end_ment(int)':
+45	21	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] expected '}' at end of input
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오전 12:05:30: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x0): multiple definition of `m'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x0): first defined here
+		C:\Users\wbmc7\Desktop\미로\obj\maze.o	maze.cpp:(.data+0x4): multiple definition of `n'
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.data+0x4): first defined here
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오전 12:13:10: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void end_select()':
+49	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'i' was not declared in this scope
+50	17	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'i' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오전 12:18:53: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+132	27	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'info' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오전 12:21:18: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int end_ment(int)':
+39	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'n' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오전 12:27:46: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오전 12:29:28: Appending to log...
+
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+4	21	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Error] 'y' does not name a type
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void random()':
+32	42	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'getRandomStartingPoint' was not declared in this scope
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오전 12:33:53: Appending to log...
+
+156	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] stray '\244' in program
+156	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] stray '\313' in program
+156	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] stray '\244' in program
+156	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] stray '\313' in program
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+152	22	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] too many arguments to function 'void end_ment()'
+56	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] declared here
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오전 12:33:58: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+152	22	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] too many arguments to function 'void end_ment()'
+56	6	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Note] declared here
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 1:55:17: Appending to log...
+
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+3	1	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Error] stray '\244' in program
+3	1	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Error] stray '\313' in program
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+156	21	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'end_select' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	At global scope:
+162	1	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected declaration before '}' token
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 1:55:34: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+156	21	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'end_select' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	At global scope:
+162	1	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected declaration before '}' token
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 1:56:10: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+148	22	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'end_ment' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	At global scope:
+158	1	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected declaration before '}' token
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 1:56:41: Appending to log...
+
+158	1	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected declaration before '}' token
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 1:58:12: Appending to log...
+
+38	30	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] redefinition of 'int m'
+38	24	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Note] 'int m' previously declared here
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int end_ment(int, int)':
+39	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'n' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:01:40: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'int end_select()':
+49	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'z' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:10:56: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void pause_ment()':
+62	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'print' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:12:05: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+13	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+14	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+16	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:12:16: Appending to log...
+
+5	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] invalid preprocessing directive #inlcude
+5	9	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Warning] missing terminating " character
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+14	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+15	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+17	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:12:20: Appending to log...
+
+5	2	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] invalid preprocessing directive #inlcude
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+14	69	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'file_read' was not declared in this scope
+15	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+17	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:12:26: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print()':
+15	12	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'MAP' was not declared in this scope
+17	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:13:56: Appending to log...
+
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+1	11	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Error] expected primary-expression before 'int'
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+108	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'print' cannot be used as a function
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:17:29: Appending to log...
+
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+1	17	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Error] 'x' was not declared in this scope
+1	22	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Error] expected ']' before ')' token
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+108	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'print' cannot be used as a function
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:17:46: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+108	16	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] too few arguments to function 'int print(int (*)[15])'
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+1	5	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Note] declared here
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:17:51: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void print(int (*)[15])':
+14	6	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'a' was not declared in this scope
+15	7	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 'b' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void pause_ment()':
+75	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] too few arguments to function 'void print(int (*)[15])'
+11	6	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Note] declared here
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:18:01: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void pause_ment()':
+75	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] too few arguments to function 'void print(int (*)[15])'
+11	6	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Note] declared here
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:18:04: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void pause_ment()':
+75	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] 't' was not declared in this scope
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:20:05: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\maze.cpp	In function 'void pause_ment()':
+75	10	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Error] too few arguments to function 'int print(int (*)[15])'
+11	5	C:\Users\wbmc7\Desktop\미로\src\maze.cpp	[Note] declared here
+34		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/maze.o' failed
+
+2022-04-14 오후 2:42:01: Appending to log...
+
+42	17	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] variable or field 'print' declared void
+42	12	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected primary-expression before 'int'
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:42:17: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print(int (*)[15])':
+42	23	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] ambiguating new declaration of 'void print(int (*)[15])'
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+1	5	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Note] old declaration 'int print(int (*)[15])'
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+97	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+101	9	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] too few arguments to function 'int print(int (*)[15])'
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+1	5	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Note] declared here
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:42:37: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void print()':
+48	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] 'x' was not declared in this scope
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+97	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:42:50: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+98	3	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:43:40: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'void in_game_move()':
+97	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected primary-expression before 'break'
+97	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] return-statement with a value, in function returning 'void' [-fpermissive]
+97	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] expected ';' before 'break'
+97	10	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] break statement not within loop or switch
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:44:52: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오후 2:45:13: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\src\main.cpp	In function 'int main()':
+135	19	C:\Users\wbmc7\Desktop\미로\src\main.cpp	[Error] too few arguments to function 'int end_ment(int, int, int)'
+9	0	C:\Users\wbmc7\Desktop\미로\src\main.cpp	In file included from src/main.cpp
+5	5	C:\Users\wbmc7\Desktop\미로\inc\maze.h	[Note] declared here
+28		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'obj/main.o' failed
+
+2022-04-14 오후 2:45:34: Appending to log...
+
+		C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin\ld.exe	cannot open output file run/미로찾기.exe: Permission denied
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
+
+2022-04-14 오후 2:49:18: Appending to log...
+
+		C:\Users\wbmc7\Desktop\미로\obj\main.o	main.cpp:(.text+0x7b0): undefined reference to `end_select()'
+		C:\Users\wbmc7\Desktop\미로\collect2.exe	[Error] ld returned 1 exit status
+25		C:\Users\wbmc7\Desktop\미로\Makefile.win	recipe for target 'run/미로찾기.exe' failed
